@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="taskHint">Enter Task</string>
+    <string name="clearButtonText">Clear All Tasks</string>
+</resources>
